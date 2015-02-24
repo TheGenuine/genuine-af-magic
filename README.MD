@@ -4,7 +4,7 @@ This is a customised version of the af-magic theme as found in [https://github.c
 
 I basically removed the grey username@machine-name and added a timestamp at the beginning of each promt. It looks like this now:
 
-![image](http://https://github.com/TheGenuine/genuine-af-magic/screenshot.png)
+![image](http://https://github.com/TheGenuine/genuine-af-magic/blob/master/screenshot.png)
 
 ## Credits
 
